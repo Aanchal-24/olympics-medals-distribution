@@ -1,4 +1,6 @@
 # Olympic Report Analysis – Flask + Tableau
+An interactive web application built with Flask and integrated with Tableau to visualize historical Olympic Games data and insights.
+
 Live application :- https://olympics-medals-distribution-4lml.onrender.com/
 
 📌 Project Overview & Olympic Insights
